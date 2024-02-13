@@ -1,0 +1,23 @@
+.locationsDashboard {
+    display: flex;
+    flex-direction: column;
+    background: rgba(0,0,0,0.3);
+    color: white;
+    gap: 8px;
+    margin: 0 auto;
+    align-items: center;
+    text-align: center;
+    padding: 2%;
+    
+}
+
+
+.locationsContainer {
+    max-width: 100%;
+
+}
+
+.keyVal {
+    width: 100%;
+    word-break: break-all;
+}
