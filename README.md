@@ -14,7 +14,7 @@ The Ghibli App is a web application built with React and Vite that consumes data
 `git clone https://github.com/jhatton1/ghibli-app.git`
 
 2. Navigate to the project directory:
-`cd Ghibli Project`
+`cd 'Ghibli Project'`
 
 3. Install dependencies:
 `npm install`
